@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Case relating to the bill for preventing multiplicity of vexatious suits and for ascertaining a certain customary tyth in the county of Derby.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31202</idno>
+            <idno type="STC">Wing C1201</idno>
+            <idno type="STC">ESTC T114265</idno>
+            <idno type="EEBO-CITATION">09506047</idno>
+            <idno type="OCLC">ocm 09506047</idno>
+            <idno type="VID">43346</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31202)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43346)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1326:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Case relating to the bill for preventing multiplicity of vexatious suits and for ascertaining a certain customary tyth in the county of Derby.</title>
+               </titleStmt>
+               <extent>1 sheet.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1670?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tithes --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="legal_case">
+            <pb facs="tcp:43346:1" rendition="simple:additions"/>
+            <head>The <hi>CASE</hi> Relating to the <hi>BILL</hi> for Preventing Multiplicity of Vexatious Suits, and for Aſcertaining a certain ancient Cuſtomary Tyth in the County of <hi>Derby.</hi> 
+               <add>according to the Tenor of certain Decrees in Chancery grounded on divers Tryals all Comon Law</add>
+            </head>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1ſt."/> THE Payment of a Tyth or Tenth of Lead-Oar, or other Metals in general, is not a Novel or un<g ref="char:EOLhyphen"/>known Duty: For although it be not found in the ordinary Tything Tables, nor due of Common Right, yet many of the Antient Kings of this Realm, in granting their Mines to ſeveral Perſons in divers parts of this Kingdom, did (beſides a certain part to themſelves and their own Exchequer) uſually reſerve and provide a Tenth to be paid to Holy Church, as may appear by Grants of Mines made 11 <hi>Jun.</hi> 8 Ric. <hi>2d;</hi> 9 <hi>Feb.</hi> 7. Hen. 4. 24 <hi>Feb.</hi> 5 Hen. 6. 23 <hi>Mar.</hi> 15 Edw. 4. &amp;c.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2dly."/> From ſuch Grants, the particular Cuſtomary Tyth or Tenth of Lead Oar, paid to the Church in all Mineral Pariſhes of <hi>Derbyſhire,</hi> did undoubtedly at firſt ariſe, ſince the Mines there were antiently in the King's own Hands. And it is moſt equitable for the Miners to pay a Tyth of their Lead Oar, becauſe they (or any Subject of <hi>England</hi>) have the Priviledge to dig and turn up any Mans Ground, in ſearch<g ref="char:EOLhyphen"/>ing for Lead Oar there, whereby vaſt quantities both of Paſture, Meadow, and Arable Land, are turned into heaps, and made Barren, which would otherwiſe yield a good Tyth in another kind.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3dly."/> The Miners themſelves, upon their Oaths, have more than once acknowledged a Duty of Tyth, payable to the Church as well as other Duties (called <hi>Lott</hi> and <hi>Cope</hi>) payable to the King or his Far<g ref="char:EOLhyphen"/>mer, and this they have Entred and Recorded in the Antient Articles of their Liberties and Cuſtoms, as a neceſſary Condition of ſome of their Priviledges, as may be ſeen by two Inquiſitions, concerning the Liberties and Cuſtoms of the Lead-Mines in <hi>Derbyſhire,</hi> taken by ſpecial Commiſſion, or <hi>Quo Warranto,</hi> from the Crown, upon the Oaths of 24 Jurors, or the Body of the Mine (as they are called) the one <hi>Inquiſ. Sept.</hi> 20. 3 Edw. 6th, Article 4. the other <hi>May 3d,</hi> in 3 <hi>&amp;</hi> 4 <hi>Phil. &amp; Mary,</hi> Article 6. both taken at <hi>Wirksworth.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4thly."/> No leſs than Twenty thouſand Miners, from all Mineral places in <hi>Derbyſhire,</hi> whoſe Names, including their Wives, Servants and Children, are Subſcribed to a Petition which was preſented to the Parliament in the Reign of <hi>Cha.</hi> I. do all of them acknowledge the payment of this Tyth to the Church, and pleaded in that their Petition, that for paying this Tyth (and the Duty of <hi>Lott</hi> and <hi>Cope</hi> to the King) they ought to be diſcharged of ſome other Payments and Impoſitions which Q. <hi>Eliz</hi> firſt of all, and after her K. <hi>Ja.</hi> I. <hi>&amp; Ch.</hi> I. had ſucceſſively and gradually laid upon Lead (to the value of 48 <hi>s. per</hi> Fudder of Tun) from which Impoſitions they were and are at this day diſcharged, upon that their Petition.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5thly."/> Decrees, Orders and Verdicts, in all the Courts of Law or Equity have paſſed, and Orders of the <hi>S<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ar-Chambers,</hi> and <hi>Council-Board</hi> have been made in favour of the Proprietors of this Tyth and for ſettling and recovering their Right when it has been denied. Only the Plaintiffs in thoſe Suits having multitudes of Adverſaries, and ſome of them Rich, were put to vaſt Expences and Charges in thoſe Suits (one of them only expending above 1500 <hi>l.</hi> in recovering his <hi>3d</hi> part of this Tyth in three Pariſhes) which being wholly inſupportable to four or five poor Parſons and Proprietors of Tyth (who only (in all the County of <hi>Derby</hi>) are now denied this Duty, although their Predeceſſors, not only at the time of thoſe great Suits, but for many Years ſince, even till very lately, did receive and quietly enjoy the ſaid Tyth. They therefore ſolicit this Bill in Parliament, to prevent ſuch Vexatious Suits, and to enforce the Execution, and to make the Benefit of thoſe Decrees as general and extenſive to the whole County of <hi>Derby</hi> (where Lead-Oar is got and digged) as the Iſſues, Verdicts, and Evidences given at the <hi>Common-Pleas-Bar</hi> were, on which thoſe Decrees were Founded.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6thly."/> The Parſons and Vicars in the Mineral Pariſhes of <hi>Derbyſhire,</hi> pay Firſt-fruits and Yearly Tenths to the King expreſly, for their Tyth of Lead-Oar, as appears in all or moſt of their Endowments upon Record, in the Firſt-fruits Office. And they are Rated as high in publick Taxes, as when their Predeceſſors re<g ref="char:EOLhyphen"/>ceived this Duty.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="7thly."/> 
+               <hi>Laſtly,</hi> A Bill was once offered in Parliament, againſt Tyth-Oar, but was rejected, upon Reaſons given by the Miniſters and Proprietors of Tyth, wherein they made appear their Right, from many antient Deeds, Accounts, Leaſes and other Records in the Reigns of <hi>Ed.</hi> II. <hi>Ed.</hi> III. <hi>Ric.</hi> II. <hi>Hen.</hi> VI. <hi>Ed.</hi> IV. <hi>Hen.</hi> VII. <hi>Hen.</hi> VIII. <hi>Ed.</hi> VI. And the preſent Suitors for this Bill, can ſhow divers Accounts, Leaſes and Compo<g ref="char:EOLhyphen"/>ſitions and Receipts of this Tyth by their Predeceſors.</p>
+         </div>
+         <div type="appendix">
+            <pb facs="tcp:43346:2" rendition="simple:additions"/>
+            <head>Appendix.</head>
+            <head type="sub">The Petitioners Right to his Tyth appearing by this Caſe and Decree to be ſo plain and evident, that it ſeems Recoverable at Law: It may be asked, why we trouble the Parliament with it.</head>
+            <p>To which we Humbly Anſwer:
+<list>
+                  <item>I. BEcauſe notwithſtanding the clearneſs of our Title in Law, yet the Litigiouſneſs of our Opponents hath kept us out of Poſſeſſion for a<g ref="char:EOLhyphen"/>bove <hi>Twenty Five</hi> Years; by which means we cannot now have thoſe <hi>general Iſſues</hi> upon which this Tyth was formerly Eſtabliſhed (as may be ſeen in the Decree) nor yet thoſe Living Witneſſes, and Evidence <hi>Viva Voce</hi> which our Predeceſſors had upon their particular and local Iſſues.</item>
+                  <item>II. Becauſe by witholding ſo conſiderable a part of our Maintenance, we are totally diſabled to follow ſo many tedious and chargeable Suits at Law, as by the ſad experience of ſome of our Predeceſſors, we certainly know the opponents of this Tyth will put us upon: It not being to be ſuppoſed, that a Clergy-man whoſe Benefice is but 50, 60, or 70 <hi>Pounds per Annum,</hi> ſhould expend 600 or 800 <hi>Pounds</hi> (as ſome of our Predeceſſors who had great temporal Eſtates, beſides their Benefices, have done) in vindicating this Right of his Church in which he has yet no Eſtate of Inhe<g ref="char:EOLhyphen"/>ritance, nor perhaps, much probability of ſeeing the Suit ended during his Life.</item>
+                  <item>III. Our Right and Title (as appears by the Decree) having been fully tryed and cleared in all the Courts of Law and Equity upon <hi>general Iſſues</hi> for the whole County, and thoſe directed by ſpecial Order of the Privy-Counſel, on purpoſe to avoid multiplicity of Suits: We humbly con<g ref="char:EOLhyphen"/>ceive it need not be ſent back again to the Law upon <hi>Local and particular Iſſues,</hi> which are only a late Invention and Deſign of ſome Perſons <hi>Cun<g ref="char:EOLhyphen"/>ning in the Law,</hi> to defeat the intent of thoſe former <hi>general Iſſues</hi> and the Verdicts given upon 'em, and to multiply as many Suits as there are Pariſhes, Places, or Proprietors who claim this Tyth.</item>
+                  <item>IV. If we were able to follow ſo many ſeveral Suits at Law, and ſhould prevail in 'em all; yet would not this ſecure us or our Succeſſors in the quiet poſſeſſion of this Tyth, without an Eſtabliſhment of the general Right for the whole County of <hi>Darby;</hi> becauſe the multitude of our Oppo<g ref="char:EOLhyphen"/>nents are on all occaſions ready to renew their Suits, to ſeize the Tyth to themſelves for Maintenance of Suit againſt the Parſon, and upon the Death, Change, or Poverty of any Incumbent, to deny former Decrees, and take advantage of the Clemency of our Predeceſſors in not always ex<g ref="char:EOLhyphen"/>acting a conſtant Tenth, thereby to deſtroy or avoid our Right upon ſtrict Local and particular Iſſues at Common Law.</item>
+                  <item>V. The Opponents of this Duty having formerly followed this Cauſe through all the Courts of Law and Equity, and before the Privy-Coun<g ref="char:EOLhyphen"/>cel, and being Caſt and Condemn'd in all, did themſelves bring this Matter into the Parliament, where the general Right to this Tyth (being ac<g ref="char:EOLhyphen"/>knowledged on all ſides to be one and the ſame in all Pariſhes within the County of <hi>Darby</hi>) was upon ſolemn Examination and Debate ſo far ap<g ref="char:EOLhyphen"/>proved in Parliament, as to reject and caſt out a Bill brought againſt this Tyth; which gives us hopes, that as the Honourable Houſe did once re<g ref="char:EOLhyphen"/>ceive and debate the Reaſons of a Bill brought againſt us; ſo they will not now reject the Conſideration of a Bill brought for the quiet Eſtabliſh<g ref="char:EOLhyphen"/>ment of Us in the poſſeſſion of that Right which has been by them ſo far approved. But eſpecially the poor Clergy-Petitioners who only (of al<g ref="char:EOLhyphen"/>moſt all others) are now denied and kept out of this Tyth; do therefore humbly apply themſelves for Relief to the two moſt Honourable Houſes of Parliament, as the Common Patrons of their injured and deſpoiled Churches, which for the Reaſons aforeſaid, cannot Relieve themſelves by any other way.</item>
+               </list>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="docket_title">
+            <p>The CASE Relating to the BILL for Preventing Vexations Suits, and Aſcertaining <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> certain Cuſtomary TY<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>H in the County of <hi>DERBY.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
